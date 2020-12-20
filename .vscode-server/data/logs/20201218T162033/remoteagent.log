@@ -1,0 +1,122 @@
+[2020-12-18 16:20:33.703] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2020-12-18 16:20:33.703] [remoteagent] [info] Extension host agent started.
+[2020-12-18 16:20:37.529] [remoteagent] [info] [127.0.0.1][21a518b3][ManagementConnection] New connection established.
+[2020-12-18 16:20:37.533] [remoteagent] [info] [127.0.0.1][cf80ccd5][ExtensionHostConnection] New connection established.
+[2020-12-18 16:20:37.659] [remoteagent] [info] [127.0.0.1][cf80ccd5][ExtensionHostConnection] <1986> Launched Extension Host Process.
+[2020-12-18 16:20:38.091] [remoteagent] [info] Listing 0 persistent terminals, 0 total terminals
+[2020-12-18 16:21:25.080] [remoteagent] [info] [127.0.0.1][21a518b3][ManagementConnection] The client has reconnected.
+[2020-12-18 16:21:25.090] [remoteagent] [info] [127.0.0.1][cf80ccd5][ExtensionHostConnection] The client has reconnected.
+[2020-12-18 16:42:19.446] [remoteagent] [info] [127.0.0.1][21a518b3][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-12-18 16:42:20.469] [remoteagent] [info] [127.0.0.1][cf80ccd5][ExtensionHostConnection] <1986> Extension Host Process exited with code: 0, signal: null.
+[2020-12-18 16:42:20.470] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-12-18 16:42:46.364] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-12-18 16:42:46.364] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-18 16:42:55.313] [remoteagent] [info] [127.0.0.1][8a2841ef][ExtensionHostConnection] New connection established.
+[2020-12-18 16:42:55.313] [remoteagent] [info] [127.0.0.1][7566b156][ManagementConnection] New connection established.
+[2020-12-18 16:42:55.318] [remoteagent] [info] [127.0.0.1][8a2841ef][ExtensionHostConnection] <14332> Launched Extension Host Process.
+[2020-12-18 16:42:59.147] [remoteagent] [info] Listing 1 persistent terminals, 1 total terminals
+[2020-12-18 16:42:59.159] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ubuntu/laravel/.vscode'
+[2020-12-18 16:43:47.389] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-12-18 16:43:47.389] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-18 16:43:54.677] [remoteagent] [info] [127.0.0.1][7566b156][ManagementConnection] The client has reconnected.
+[2020-12-18 16:43:54.686] [remoteagent] [info] [127.0.0.1][8a2841ef][ExtensionHostConnection] The client has reconnected.
+[2020-12-18 16:44:37.907] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-12-18 16:44:37.907] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-18 16:44:41.856] [remoteagent] [info] [127.0.0.1][7566b156][ManagementConnection] The client has reconnected.
+[2020-12-18 16:44:41.857] [remoteagent] [info] [127.0.0.1][8a2841ef][ExtensionHostConnection] The client has reconnected.
+[2020-12-18 16:45:24.537] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-12-18 16:45:24.537] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-18 16:45:31.702] [remoteagent] [info] [127.0.0.1][7566b156][ManagementConnection] The client has reconnected.
+[2020-12-18 16:45:31.710] [remoteagent] [info] [127.0.0.1][8a2841ef][ExtensionHostConnection] The client has reconnected.
+[2020-12-18 16:46:06.030] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-12-18 16:46:06.030] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-18 16:46:07.693] [remoteagent] [info] [127.0.0.1][7566b156][ManagementConnection] The client has reconnected.
+[2020-12-18 16:46:58.027] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-12-18 16:46:58.027] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-18 16:47:02.493] [remoteagent] [info] [127.0.0.1][7566b156][ManagementConnection] The client has reconnected.
+[2020-12-18 16:47:49.676] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-12-18 16:47:49.676] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-18 16:47:55.071] [remoteagent] [info] [127.0.0.1][7566b156][ManagementConnection] The client has reconnected.
+[2020-12-18 16:47:59.147] [remoteagent] [info] The short reconnection grace time of 5m has expired, so the terminal process with pid 2146 will be shutdown.
+[2020-12-18 16:48:40.760] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-12-18 16:48:40.760] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-18 16:48:47.349] [remoteagent] [info] [127.0.0.1][7566b156][ManagementConnection] The client has reconnected.
+[2020-12-18 16:49:12.199] [remoteagent] [info] [127.0.0.1][7566b156][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-12-18 16:49:13.236] [remoteagent] [info] [127.0.0.1][8a2841ef][ExtensionHostConnection] <14332> Extension Host Process exited with code: 0, signal: null.
+[2020-12-18 16:49:13.236] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-18 16:49:13.236] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-12-18 16:49:35.729] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-12-18 16:49:35.729] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-18 16:49:41.641] [remoteagent] [info] [127.0.0.1][f1c95614][ManagementConnection] New connection established.
+[2020-12-18 16:49:41.643] [remoteagent] [info] [127.0.0.1][fa07a617][ExtensionHostConnection] New connection established.
+[2020-12-18 16:49:41.646] [remoteagent] [info] [127.0.0.1][fa07a617][ExtensionHostConnection] <15774> Launched Extension Host Process.
+[2020-12-18 16:49:44.136] [remoteagent] [info] Listing 6 persistent terminals, 6 total terminals
+[2020-12-18 16:49:44.140] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ubuntu/laravel/.vscode'
+[2020-12-18 16:50:16.493] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-12-18 16:50:16.493] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-18 16:50:17.804] [remoteagent] [info] [127.0.0.1][f1c95614][ManagementConnection] The client has reconnected.
+[2020-12-18 16:50:17.810] [remoteagent] [info] [127.0.0.1][fa07a617][ExtensionHostConnection] The client has reconnected.
+[2020-12-18 16:51:35.311] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-12-18 16:51:35.311] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-18 16:51:38.138] [remoteagent] [info] [127.0.0.1][f1c95614][ManagementConnection] The client has reconnected.
+[2020-12-18 16:51:39.026] [remoteagent] [info] [127.0.0.1][fa07a617][ExtensionHostConnection] The client has reconnected.
+[2020-12-18 16:54:34.086] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-12-18 16:54:34.086] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-18 16:54:38.246] [remoteagent] [info] [127.0.0.1][f1c95614][ManagementConnection] The client has reconnected.
+[2020-12-18 16:54:38.247] [remoteagent] [info] [127.0.0.1][fa07a617][ExtensionHostConnection] The client has reconnected.
+[2020-12-18 16:56:17.012] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-12-18 16:56:17.012] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-18 16:56:23.082] [remoteagent] [info] [127.0.0.1][f1c95614][ManagementConnection] The client has reconnected.
+[2020-12-18 16:56:23.083] [remoteagent] [info] [127.0.0.1][fa07a617][ExtensionHostConnection] The client has reconnected.
+[2020-12-18 16:58:17.653] [remoteagent] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2020-12-18 16:58:49.314] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-12-18 16:58:49.314] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-18 16:58:51.001] [remoteagent] [info] [127.0.0.1][f1c95614][ManagementConnection] The client has reconnected.
+[2020-12-18 16:58:52.035] [remoteagent] [info] [127.0.0.1][fa07a617][ExtensionHostConnection] The client has reconnected.
+[2020-12-18 16:59:28.672] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-12-18 16:59:28.672] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-18 16:59:36.029] [remoteagent] [info] [127.0.0.1][f1c95614][ManagementConnection] The client has reconnected.
+[2020-12-18 16:59:36.030] [remoteagent] [info] [127.0.0.1][fa07a617][ExtensionHostConnection] The client has reconnected.
+[2020-12-18 17:00:12.391] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-12-18 17:00:12.391] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-18 17:00:18.259] [remoteagent] [info] [127.0.0.1][f1c95614][ManagementConnection] The client has reconnected.
+[2020-12-18 17:00:18.260] [remoteagent] [info] [127.0.0.1][fa07a617][ExtensionHostConnection] The client has reconnected.
+[2020-12-18 17:00:53.737] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-12-18 17:00:53.737] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-18 17:00:59.386] [remoteagent] [info] [127.0.0.1][f1c95614][ManagementConnection] The client has reconnected.
+[2020-12-18 17:00:59.391] [remoteagent] [info] [127.0.0.1][fa07a617][ExtensionHostConnection] The client has reconnected.
+[2020-12-18 17:05:45.293] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-12-18 17:05:45.293] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-18 17:05:51.953] [remoteagent] [info] [127.0.0.1][f1c95614][ManagementConnection] The client has reconnected.
+[2020-12-18 17:05:51.960] [remoteagent] [info] [127.0.0.1][fa07a617][ExtensionHostConnection] The client has reconnected.
+[2020-12-18 17:06:22.577] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-12-18 17:06:22.577] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-18 17:06:24.034] [remoteagent] [info] [127.0.0.1][f1c95614][ManagementConnection] The client has reconnected.
+[2020-12-18 17:06:24.035] [remoteagent] [info] [127.0.0.1][fa07a617][ExtensionHostConnection] The client has reconnected.
+[2020-12-18 17:08:43.494] [remoteagent] [info] [127.0.0.1][f1c95614][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2020-12-18 17:09:08.014] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-12-18 17:09:08.014] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-18 17:09:10.893] [remoteagent] [info] [127.0.0.1][f1c95614][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2020-12-18 17:09:10.893] [remoteagent] [info] [127.0.0.1][f1c95614][ManagementConnection] The client has reconnected.
+[2020-12-18 17:09:10.894] [remoteagent] [info] [127.0.0.1][fa07a617][ExtensionHostConnection] The client has reconnected.
+[2020-12-18 17:14:08.014] [remoteagent] [info] New EH opened, aborting shutdown
+[2020-12-18 17:37:55.993] [remoteagent] [info] [127.0.0.1][f1c95614][ManagementConnection] The client has reconnected.
+[2020-12-18 17:37:56.008] [remoteagent] [info] [127.0.0.1][fa07a617][ExtensionHostConnection] The client has reconnected.
+[2020-12-18 18:29:03.124] [remoteagent] [info] [127.0.0.1][f1c95614][ManagementConnection] The client has reconnected.
+[2020-12-18 18:29:03.357] [remoteagent] [info] [127.0.0.1][fa07a617][ExtensionHostConnection] The client has reconnected.
+[2020-12-18 18:43:53.572] [remoteagent] [info] [127.0.0.1][fa07a617][ExtensionHostConnection] The client has reconnected.
+[2020-12-18 19:19:56.285] [remoteagent] [info] [127.0.0.1][f1c95614][ManagementConnection] The client has reconnected.
+[2020-12-18 19:19:56.286] [remoteagent] [info] [127.0.0.1][fa07a617][ExtensionHostConnection] The client has reconnected.
+[2020-12-18 22:29:29.163] [remoteagent] [info] [127.0.0.1][f1c95614][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-12-18 22:29:30.246] [remoteagent] [info] [127.0.0.1][fa07a617][ExtensionHostConnection] <15774> Extension Host Process exited with code: 0, signal: null.
+[2020-12-18 22:29:30.246] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-12-18 22:34:30.246] [remoteagent] [info] Last EH closed, shutting down

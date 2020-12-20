@@ -1,0 +1,34 @@
+[2020-12-19 05:51:49.360] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2020-12-19 05:51:49.360] [remoteagent] [info] Extension host agent started.
+[2020-12-19 05:51:51.273] [remoteagent] [info] [127.0.0.1][79a09e68][ManagementConnection] New connection established.
+[2020-12-19 05:51:51.275] [remoteagent] [info] [127.0.0.1][7236f4db][ExtensionHostConnection] New connection established.
+[2020-12-19 05:51:51.387] [remoteagent] [info] [127.0.0.1][7236f4db][ExtensionHostConnection] <58858> Launched Extension Host Process.
+[2020-12-19 05:51:51.928] [remoteagent] [info] Listing 0 persistent terminals, 0 total terminals
+[2020-12-19 05:51:51.937] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ubuntu/laravel/.vscode'
+[2020-12-19 05:51:56.392] [remoteagent] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2020-12-19 06:06:47.683] [remoteagent] [info] [127.0.0.1][79a09e68][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-12-19 06:06:48.711] [remoteagent] [info] [127.0.0.1][7236f4db][ExtensionHostConnection] <58858> Extension Host Process exited with code: 0, signal: null.
+[2020-12-19 06:06:48.712] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-12-19 06:10:55.719] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-12-19 06:10:55.719] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-19 06:10:57.618] [remoteagent] [info] [127.0.0.1][7ea723ee][ManagementConnection] New connection established.
+[2020-12-19 06:10:57.618] [remoteagent] [info] [127.0.0.1][591a777b][ExtensionHostConnection] New connection established.
+[2020-12-19 06:10:57.621] [remoteagent] [info] [127.0.0.1][591a777b][ExtensionHostConnection] <60439> Launched Extension Host Process.
+[2020-12-19 06:10:58.614] [remoteagent] [info] Listing 1 persistent terminals, 1 total terminals
+[2020-12-19 06:10:58.619] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ubuntu/laravel/.vscode'
+[2020-12-19 06:10:59.148] [remoteagent] [info] Replaying 204 chars and 1 size events.
+[2020-12-19 06:11:02.608] [remoteagent] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2020-12-19 06:11:49.794] [remoteagent] [info] [127.0.0.1][7ea723ee][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-12-19 06:11:50.819] [remoteagent] [info] [127.0.0.1][591a777b][ExtensionHostConnection] <60439> Extension Host Process exited with code: 0, signal: null.
+[2020-12-19 06:11:50.819] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-19 06:11:50.819] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-12-19 06:16:50.819] [remoteagent] [info] Last EH closed, shutting down
