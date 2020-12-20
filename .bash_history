@@ -43,3 +43,17 @@ cls
 clear
 git init
 yes
+clear
+git init
+git commit -m "first commit"
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/markusmarbun/view_sawit.git
+git push -u origin main
+clear
+git init
+git add .
+git commit -m "buat-file"
+git remote add origin https://github.com/markusmarbun/view_sawit.git
+git push -u origin main
+clear
